@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"v1",
+  "%Name":"ano_anotacao_do_jogo",
+  "name":"ano_anotacao_do_jogo",
+  "parent":{
+    "name":"Notes",
+    "path":"folders/Notes.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

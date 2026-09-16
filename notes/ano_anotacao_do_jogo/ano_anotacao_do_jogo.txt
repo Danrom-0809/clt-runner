@@ -1,0 +1,15 @@
+ASSETS:
+
+    - Importar sprites [X]
+    - Importar sons [X]
+
+JOGO:
+
+    - Fazer o sprite do asfalto subir [X]
+    - Criar o Player e o movimento [X]
+    - Criar a comida []
+    - Criar os CLTs []
+
+CUTSCENE:
+
+    - Criar a cutscene []
