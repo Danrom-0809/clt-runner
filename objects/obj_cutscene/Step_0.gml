@@ -1,0 +1,1 @@
+if (pagina == 3) room_goto(rm_jogo);
