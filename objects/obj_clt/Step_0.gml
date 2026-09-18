@@ -1,4 +1,4 @@
-vspeed = 1;
+vspeed = global.velocidade;
 
 if (y > room_height + 25) instance_destroy();
     

@@ -12,4 +12,9 @@ JOGO:
 
 CUTSCENE:
 
-    - Criar a cutscene []
+    - Criar a cutscene [X]
+
+SONS:
+
+    - Colocar a música do jogo [X]
+    - Colocar os efeitos sonoros [X]
