@@ -15,3 +15,9 @@ if (x = 168)
 
 // Deixando o Y acima do limite da room
 y = -25;
+
+// Evitando o spam de pontos
+recebi_pontos = false;
+
+// Mostrando que o início do juice acabou
+inicio_do_juice = true;
