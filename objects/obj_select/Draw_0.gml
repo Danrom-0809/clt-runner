@@ -9,7 +9,7 @@ draw_set_valign(fa_middle);
 draw_set_font(fnt_general_smaller);
 
 // Escrevendo o texto escolhido
-draw_text_transformed(x, y + deslocamento, texto, tamanho_h * 2, tamanho_h * 2, 0);
+draw_text_transformed(x, y + deslocamento, texto, tamanho_h, tamanho_h, 0);
 
 // Definindo o alinhamento para o padrão
 draw_set_halign(-1);
