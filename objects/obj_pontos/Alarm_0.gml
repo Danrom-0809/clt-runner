@@ -1,1 +1,0 @@
-global.pontos_juice = false;

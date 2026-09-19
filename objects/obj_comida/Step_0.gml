@@ -4,7 +4,6 @@ vspeed = global.velocidade;
 // Destruindo a instância se passar da parte inferior da room ou tocar no Player
 if (place_meeting(x, y, obj_player))
 {
-    global.pontos_juice = true;
     global.pontos++;
     audio_play_sound(snd_pickup, 2, false);
     instance_destroy();   

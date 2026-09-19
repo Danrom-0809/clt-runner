@@ -1,1 +1,0 @@
-if (responder) aumentar_sprite = true;
