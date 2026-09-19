@@ -45,7 +45,6 @@
     {"id":{"name":"rm_cutscene","path":"rooms/rm_cutscene/rm_cutscene.yy",},},
     {"id":{"name":"rm_jogo","path":"rooms/rm_jogo/rm_jogo.yy",},},
     {"id":{"name":"scr_global","path":"scripts/scr_global/scr_global.yy",},},
-    {"id":{"name":"snd_cutscene","path":"sounds/snd_cutscene/snd_cutscene.yy",},},
     {"id":{"name":"snd_newer_wave","path":"sounds/snd_newer_wave/snd_newer_wave.yy",},},
     {"id":{"name":"snd_pickup","path":"sounds/snd_pickup/snd_pickup.yy",},},
     {"id":{"name":"spr_batata","path":"sprites/spr_batata/spr_batata.yy",},},
