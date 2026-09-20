@@ -6,7 +6,7 @@ draw_set_halign(fa_center);
 draw_set_valign(fa_middle);
 
 // Desenhando os pontos
-draw_text_transformed(room_width / 2, 30, global.pontos, txt_scale, txt_scale, 0);
+draw_text_transformed(room_width, 60, global.pontos, txt_scale * 2, txt_scale * 2, 0);
 
 // Voltando ao alinhamento normal do jogo
 draw_set_halign(-1);
